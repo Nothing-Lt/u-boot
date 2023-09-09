@@ -14,6 +14,7 @@ Board-specific doc
    anbernic/index
    apple/index
    armltd/index
+   asus/index
    atmel/index
    beacon/index
    broadcom/index
@@ -25,11 +26,12 @@ Board-specific doc
    gateworks/index
    google/index
    highbank/index
+   htc/index
    intel/index
    kontron/index
+   lg/index
    mediatek/index
    microchip/index
-   nokia/index
    nxp/index
    openpiton/index
    phytec/index
